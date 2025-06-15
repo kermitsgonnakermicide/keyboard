@@ -1,3 +1,5 @@
+**Total Time Spent: 15hr**
+
 # Day 1 - June 13th(PT1)
 
 I decided on a 60% layout, as I wanted this to travel w/ me. I used the default 60% from keyboardlayout <br>
@@ -30,3 +32,4 @@ I intend to work on the firmware and _hopefully_ ship it by EOTD<br>
 # Day 3(pt2)
 
 Firmware was a pretty basic KMK script - everything w/ encoder and keys
+**Time Spent: 1hr30**
