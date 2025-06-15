@@ -11,4 +11,9 @@ Still not sure on which switches to use, but i'm certain I want something creamy
 
 # Day 2 - June 13th(PT2)
 
-Today, I also routed the PCB for this - <br>
+Today, I also routed the PCB for this -<br>
+![alt text](Assets/pcb.png) <br>
+Again, I wanted to keep it small as this is a travel keyboard so the dimensions are 292x124mm<br>
+**Time Spent: 6hr**
+
+# Day 3 - June 14th
