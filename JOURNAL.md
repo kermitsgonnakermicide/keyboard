@@ -12,7 +12,7 @@ Still not sure on which switches to use, but i'm certain I want something creamy
 # Day 2 - June 13th(PT2)
 
 Today, I also routed the PCB for this -<br>
-![alt text](Assets/pcb.png) <br>
+![alt text](Assets/PCB1.png) <br>
 Again, I wanted to keep it small as this is a travel keyboard so the dimensions are 292x124mm<br>
 This is a rather 'no frills' keyboard - i just want nice switches and a couple encoders and NOTHING else
 **Time Spent: 6hr**
@@ -20,9 +20,13 @@ This is a rather 'no frills' keyboard - i just want nice switches and a couple e
 # Day 3 - June 14th
 
 Today, I made the case<br>
-![alt text](Assets/PCB1.png)<br>
+![aaa](Assets/image.png)
 The case is(yet again) rather simple, with a couple of slots for m5 size screws to hold the case in place.<br>
 Other than that, nothing remarkable except for the fact I intend to use ABS for its durability(remember, this is a travel keyboard)<br>
 Additionally, I finally settled on a [switch](https://neomacro.in/products/hmx-macchiato-linear-switch), which is the HMX macchiato and some [keycaps](https://stackskb.com/store/stackspbt-lavender-mda-profile-keycaps-131-key/)
 I intend to work on the firmware and _hopefully_ ship it by EOTD<br>
 **Time Spent: 3hr30**<br>
+
+# Day 3(pt2)
+
+Firmware was a pretty basic KMK script - everything w/ encoder and keys
