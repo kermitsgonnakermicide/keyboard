@@ -16,7 +16,7 @@ Again, owing to the purpose of the keyboard, I want to
 
 ![image](Assets/image.png)<br>
 ![image](Assets/layout.png)<br>
-![image](Assets/PCB1.png)<BR>
+![image](Assets/keyboard.png)<BR>
 ![image](Assets/schematic.png)<br>
 
 ## BOM
