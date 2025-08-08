@@ -6,10 +6,15 @@ a travel sized 60% keyboard with two rotary encoders for extra functionality!<br
 
 This keyboard is pretty **bog-standard**, and can be split into two basic components; the PCB and case<br>
 **PCB**:<br>
-Fully through hole, with a raspberry pi pico, in4018 diodes and HMX macchiato switches<br>
+Fully through hole, with a raspberry pi pico, in4018 diodes and HMX macchiato switches(cheap + sound awesome!)<br>
+Went fully THT to keep costs as low as I can, and get some real soldering in!<br>
 **Case**:<BR>
 Just a case covering the entire keyboard t_t
-Again, owing to the purpose of the keyboard, I want to
+Again, owing to the purpose of the keyboard, I want to keep it small and simple, but for the shiggles I addded this cool pattern to the bottom of my case<br>
+![image](Assets/pattern.png)<br>
+
+**Firmware**:<br>
+Again, pretty standard KMK firmware running on the pico<br>
 <br>
 
 ## Images
@@ -18,6 +23,14 @@ Again, owing to the purpose of the keyboard, I want to
 ![image](Assets/layout.png)<br>
 ![image](Assets/keyboard.png)<BR>
 ![image](Assets/schematic.png)<br>
+
+### Images of the CAD
+
+![image](Assets/img1.png)
+![image](Assets/img2.png)
+![image](Assets/img3.png)
+![image](Assets/img4.png)
+![image](Assets/img5.png)
 
 ## BOM
 
