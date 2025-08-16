@@ -1,4 +1,4 @@
-**Total Time Spent: 15hr**
+**Total Time Spent: 16hr**
 
 # Day 1 - June 13th(PT1)
 
@@ -31,5 +31,20 @@ I intend to work on the firmware and _hopefully_ ship it by EOTD<br>
 
 # Day 3(pt2)
 
-Firmware was a pretty basic KMK script - everything w/ encoder and keys
+Firmware was a pretty basic KMK script - everything w/ encoder and keys<br>
+Essentially, it uses the row-column diode matrix, same thing with the encoder<br>
+KMK runs on Adafruit's circuit python, which will in turn run on my pico
 **Time Spent: 1hr30**
+
+# Day 4 - August 16th
+
+Made the cad a little better! Added the keycaps and also a nice hexagon pattern<br>
+![image](Assets/pattern.png)<br>
+The keycaps are for added realism, while the hexagon is just to make the case look cooler<br>
+![image](Assets/img1.png)
+![image](Assets/img2.png)
+![image](Assets/img3.png)
+![image](Assets/img4.png)
+![image](Assets/img5.png)
+
+**Time Spent: 1hr**
